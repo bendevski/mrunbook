@@ -9,6 +9,7 @@ This is written to take you, whichever position societally, physically, geograph
 
 # (Mandatory) How to want to learn, or do anything for that matter
 I've read a lot of self help books. Should you read a lot of self help books? Fuck no. The amount of information you get from each book is maybe worth a page. Any summary you read online will have its biases, yes, but at the base of it all it's either fluff or something that can be fit into a tl;dr. Be that as it may, this is sort of a self help book. Except very barebones. I do love the sound of my own voice, but I will keep it brief and concise. So, back to the topic:
+(EXCEPTIONS APPLY, "The Charisma Myth" is an example of a pure gold book.)
 
 ## Growth Mindset
 I hate buzzwords when it comes to self improvement. Most media gets you motivated with a few nice sounding words and hopes you'll use the motivation high to breeze through whatever challenge was blocking you. Does this work? Yes. Is it sustainable? Maybe. Is it what we'll do? No. We're not going to be buzzing about the amazing "Growth Mindset," we're going to be using it. Block 10 minutes now and listen to a man much more qualified than myself speak.

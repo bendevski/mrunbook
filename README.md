@@ -1,5 +1,6 @@
 # Intro
 This is written to take you, whichever position societally, physically, geographically, emotionally, and motivationally you might find yourself at, to a ["fuck you" position](https://www.youtube.com/watch?v=xdfeXqHFmPI) in the tech industry. I don't care how far you want to follow the run book. Heck, the tech industry could be the farthest thing away from your interest. Maybe you want to work in marketing, start your own company, or build your own apps. Maybe you want to work at a grocery store, maybe you wanna be unemployed. You get the gist, read what's relevant, scrap the rest. Though most of the coding material builds up on itself, documentation will follow to explain it to those jumping straight to the middle.
+
 # Expectations
 - Every chapter in this book will come with an expected time to finish. This is guesstimated for a fully employed individual. If you're lagging behind this reread "How to want to learn..." and start catching up immediately. 
 - Even though this book is meant to be driven by mindest changes covered in "How to want to learn..." the deadlines will help keep your expectations of learning on track.
@@ -14,21 +15,29 @@ I hate buzzwords when it comes to self improvement. Most media gets you motivate
 https://www.youtube.com/watch?v=tWzakqerPUw
 Watch it.
 Okay, that's a self improvement channel showing you a snippet from a self improvement podcast. Should you listen to this podcast? It should be the main thing you listen to. Huberman Podcast. All of it.
+
 ### tl;dr
 Stop looking forward to achieving big things. Look forward to, and at, the process you are a part of. Sounds super metaphysical, really isn't. Just tell yourself you really enjoy the work, and the growth, that comes from the uncomfortable feeling in your head when you read something you don't quite understand. Instead of taking a break because of it, look for it. When it's there, break it apart, push through it and understand, and love doing this over and over again. You'll face this mental block at pretty much every part of this run book. Don't take a break when you feel it, but see it as the opportunity to flourish if you continue.
+
 ## Tech literacy
 Stole this from some blog/course site I was going through 2 years ago. Whether you want to learn to program, or just want to be one of those tech savvy people that can solve most tech problems (it's super easy, I promise,) tech literacy is the basis. Tech literacy, much like the growth mindset, is, well, a mindset. It's the mindset of "I have no idea how to do this, what's the minimum amount of time I need to figure it out." Now, you would think most people do this, but sad to say most people don't take the time to make the calculation. They either know it or drop it. Tech literacy focuses on tech, but it branches off into any problem. Take the time to think through how you would solve any problem you come across. Calculate the minimum amount of time it will take you, and decide if it's worth it. Notice I said minimum and not maximum. The goal is not to stop yourself from wasting time. The goal is to figure out if something is worth the hassle and deciding to spend the time needed if it's worth it. This is very simple to do in tech, as problems coding wise are very easy to notice and define. But it can be extremely enriching to do in every day life as well. How can you go about solving every day problems in a more thoughtful and efficient way? What's something that you don't particularly enjoy that you have had to do pretty often? Can it be solved permanently? Life has a lot of problems. But when you switch your mindset to playing with those problems instead of fighting them, life becomes a tiny bit easier.
+
 ### tl;dr
 Approach every problem as a game of "what's the minimum time it would take me to figure this out." When faced with something you don't know how to do, don't shut down. Think of it as a fun time (cause it really is) and figure out how to figure it out.
+
 ## Not note taking
 This thing is written in Obsidian. The note taking app I recommend. What I do not recommend, though, is notes in the way that you're probably used to doing them:
+
 ### ADHD copium and beyond
 You don't need to have ADHD to follow the note taking process I'll outline here. The process is meant to take literally all the weight off your mind when it comes to planning and remembering things. The goal is to have your mind totally uncluttered when learning/working/playing/dancing all of it. You don't have to use my note taking system. But you do have to make your own. Specifically for reminders.
+
 ### Reminders
 I have Obsidian on every device I own. I also subscribe to Obsidian sync. You don't need to, you can use literally any cloud platform (drive, box, github) to sync between devices. I just like supporting the free product I use a lot. Whenever any idea comes into my mind that I might want to get back to in the future I drop it down into my idea file. Whenever an interesting topic pops up, topics file. Whenever I have to remember anything Reminders file. I use the [Reminder community plugin](obsidian://show-plugin?id=obsidian-reminder-plugin). You don't have to, I really like it. 
 The goal is to keep your mind as unoccupied as possible, so that you can focus on whatever you need to. The amount of research on this is immense, don't skip on doing it.
+
 ### Self documentation
 The first File I created on my work Obsidian, named "Links for setup," is one I still use today. It hosts a bunch of different links to various github pages and wiki links in my companies intranet. It makes it so I don't have to bookmark stuff that I'll forget forever. Instead I currate it every time I go back in, either adding new things or deprecating all things. Have files for why you do things in specific projects. Possible ways to implement requirements you have. Requirements you have. How you learnt how to do anything. Document everything. a) you can sell it later. b) you can help other people that are stuck easier. c) It'll help you remember shit easier.
+
 ### Daily base behavior
 Have a measurable list of goals to finish every day. Examples:
 Filip from 2019ish:
@@ -53,13 +62,13 @@ Sleep is for the strong. Anyone that replaces sleep with learning/work is very s
 - Wake up in the same 30 minute window each night.
 	- After 4-5 nights it'll become automatic, no alarms or BS needed.
 - **Go to sleep before 12AM**
-- 
-
 
 ## Possibly the most important part
 I suggest you read this part. Take 30 minutes to do the exercise at the end, and honestly, you can just stop reading right here. Implement everything talked about until now, and I can guarantee that you will be in the most productive 1% of human beings. So... without further ado.  
+
 ##### Opinions:
 What makes a great leader? Fucking hate this question. Loaded. But... if I had to choose one thing? Having opinions. I'm sure I'll write out a chapter about the other qualities I think are important in a leader. But having the following framework for opinions in your mind will make you so much better at everything. 
+
 ##### Framework:
 You should be in one of three categories for every subject, though I would honestly avoid the third one all together.
 State -> What to do -!> What not to do
@@ -84,30 +93,36 @@ Aight. This chapter needs a major facelift, but I'll leave it as it is for now.
 ##### Your job:
 Think about all the things that you encounter daily that you don't have an opinion on. Take 20 mins to form opinions on as many things as possible, go discuss said opinions with someone you like.
 
-
-
-
 ## Exercise
 I recommend you do it, but baby steps. [Just do this for now](https://www.youtube.com/watch?v=CU4FbEplZQI) if exercise is too much. After you practice enough with growth mindset exercise becomes one of the most fun things you can do. Until then, just move your feet.
 
 ## Learning
 Aight, you've just spent the last 20 minutes reading abstract BS. If the previous sentence is correct go reread and figure out how to make it implementable and not abstract. Heck, contact me and explain what doesn't make sense.
-Now, let's get to the actualization. I'll just drop a few quotes that are super BSy but you should take to heart:
-"Have no fear of perfection – you'll never reach it."
-- If you have ever wanted to learn something, bought 3 books about it, never opened the books and never learnt it, reread the quote.
-"**20% of what you do results in 80% of your outcomes**"
-- Combine this with the above quote and we're good to go
-The 80-20 rule is the best thing to understand if you want to learn anything. That and the difficulty graph:
-[Not a quote but take 4 minutes](https://youtu.be/JcAegIUzKuo?t=68)
-- Last one, kinda important to have a better grasp of the only currency available in the brain.
+Now, let's get to the actualization. 
+I'll just drop a few quotes that are super BSy but you should take to heart:
+
+- "Have no fear of perfection – you'll never reach it."
+	- If you have ever wanted to learn something, bought 3 books about it, never opened the books and never learnt it, reread the quote.
+- "**20% of what you do results in 80% of your outcomes**"
+	- Combine this with the above quote and we're good to go
+	- The 80-20 rule is the best thing to understand if you want to learn anything. That and the difficulty graph:
+- [Not a quote but take 4 minutes](https://youtu.be/JcAegIUzKuo?t=68)
+	- Last one, kinda important to have a better grasp of the only currency available in the brain.
+
+
 Okay. Let's put these all together. 
+
 ### The learning to learn phase
 You want to learn something. Spend 2-20 hours learning how to learn it. Not very concise, I know, but the limits are what's important. If something seems pretty simple, but not trivial, spend 2 hours figuring out the best way to learn what you need. An example would be something like learning a language familiar to your own. In that case there are a bunch of non-trivial tricks that are easy to implement, not obvious, but will make your live many, many, times easier. On the higher end of the spectrum would be something like a field. Programming comes to mind easiest to me, a programmer. You want to take the time and understand the field, and then each minor step in learning your first language makes sense. You understand why you need to learn each step and how it fits into the larger picture. Every second after the first 20 hours though, is chasing that 20% by putting in significantly more effort. It takes 20% of effort to get 80%. And inversely the next 20% of value comes with the 80% of effort left over.  Just do yourself a favor an stop at 80% when you don't really need that extra 20 right now.
+
 ### The learning phase
+
 ##### Here there is a lot of variance. Most of the time, if it's a practical field, you should follow the flow chart of:
 have a mini goal -> try to do it while not knowing how to do it -> study how to do only the parts that you're stuck on right now -> try to do it with your new knowledge -> repeat from step 2 until mini goal is done -> find a new mini goal -> repeat from step 1
+
 ##### More theoretical fields should also follow a similar trend
 find a mini quiz on the topic you're studying -> try -> read the relevant material/chapter -> do the quiz again/a similar quiz with different questions -> repeat
+
 #### Practice makes perfect
 But wrong practice makes dumb. Practice is not rote repetition. Be mindful of and focus on what you're doing at all times when practicing. Don't go into autopilot, makes you useless. Go back and forth what you're practicing. You want your brain to be able to recall anything you practice at any step. If you've ever studied a language, you know that when learning to count you run into a very common problem. You learn how to count from 1 to 10, but when you have to say 6 out of nowhere things become hard. You have to count to get to it and then say. That's a perfect metaphor for how your brain learns things. It does so in graphs. Let's simplify:
 When you learn the word for 1, your brain doesn't really connect it to anything except the language itself. This makes 1 super easy to remember, since we don't really have to think of anything else except the language to bring it forward.

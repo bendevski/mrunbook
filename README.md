@@ -9,7 +9,18 @@ This is written to take you, whichever position societally, physically, geograph
 
 # (Mandatory) How to want to learn, or do anything for that matter
 I've read a lot of self help books. Should you read a lot of self help books? Fuck no. The amount of information you get from each book is maybe worth a page. Any summary you read online will have its biases, yes, but at the base of it all it's either fluff or something that can be fit into a tl;dr. Be that as it may, this is sort of a self help book. Except very barebones. I do love the sound of my own voice, but I will keep it brief and concise. So, back to the topic:
-(EXCEPTIONS APPLY, "The Charisma Myth" is an example of a pure gold book.)
+
+## Your perspective and values greatly differ from other peoples
+
+### Preface (skippable)
+I spent most of my childhood moving between what is now North Macedonia and Greece. [The name change is a fun topic, read if want](https://en.wikipedia.org/wiki/Macedonia_naming_dispute#:~:text=The%20dispute%20was%20a%20source,signed%20on%2017%20June%202018.). Despite the popular opinion in North Macedonia, I think greek people (most people for that matter) are great. A reason for this is because I try to understand where they are coming from as much I try to understand where the Macedonian Nationalists are coming from.
+### You grew up with base beliefs that greatly differ from people from other cultures
+When I say beliefs I'm not thinking of religion (though this stands for religious beliefs as well.) A base belief that I was faced with recently was from my own culture, and one that I was completely unfamiliar with. As a guest, in Macedonian culture, it is incredibly disrespectful not to chat with your host in the morning. As a very talkative person this has never been something I came into contact with, and as such was unaware of. Yet, when I brought a guest from East Asia to my house I was stumped. My sister (we were staying at my sister's house) thought the guest, who had not said good-morning and stopped for a chat, to be extremely rude, to the point of questioning my friendship with said person.
+Having no such concept in their culture my friend had no idea that they were being judged. Had they learnt of the fact that my sister was mad at them for something as "small" as that, I'm sure they would be mad as well. But, when explained properly, with a bit of empathy, both sides come out much less disgruntled.
+Every time you find yourself judging, take a second to ask where the judged action is coming from. More often than not you'll realize that you might not be right to judge.
+
+### This probably the most important thing can learn to do
+Don't just take what's written above and continue with your life. Practice it. Force yourself to understand others and very quickly you'll find that life is much better.
 
 ## Growth Mindset
 I hate buzzwords when it comes to self improvement. Most media gets you motivated with a few nice sounding words and hopes you'll use the motivation high to breeze through whatever challenge was blocking you. Does this work? Yes. Is it sustainable? Maybe. Is it what we'll do? No. We're not going to be buzzing about the amazing "Growth Mindset," we're going to be using it. Block 10 minutes now and listen to a man much more qualified than myself speak.
@@ -60,7 +71,7 @@ These are not goals in terms of I have to do this. These are baselines. These wi
 Sleep is for the strong. Anyone that replaces sleep with learning/work is very seriously shooting themselves in the foot. Follow the below rules to sleep well, ones with a * are mandatory. Ruin your social life for a few weeks if you have to.
 - No Alcohol 3 hours before sleep
 - Go to sleep in the same 30 minute window each night.
-- Wake up in the same 30 minute window each night.
+- Wake up in the same 30 minute window each morning.
 	- After 4-5 nights it'll become automatic, no alarms or BS needed.
 - **Go to sleep before 12AM**
 

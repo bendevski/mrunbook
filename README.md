@@ -1,7 +1,7 @@
 # Intro
 This is written to take you, whichever position societally, physically, geographically, emotionally, and motivationally you might find yourself at, to a ["fuck you" position](https://www.youtube.com/watch?v=xdfeXqHFmPI) in the tech industry. I don't care how far you want to follow the run book. Heck, the tech industry could be the farthest thing away from your interest. Maybe you want to work in marketing, start your own company, or build your own apps. Maybe you want to work at a grocery store, maybe you wanna be unemployed. You get the gist, read what's relevant, scrap the rest. Though most of the coding material builds up on itself, documentation will follow to explain it to those jumping straight to the middle.
 
-# Expectations
+# Expectations!
 - Every chapter in this book will come with an expected time to finish. This is guesstimated for a fully employed individual. If you're lagging behind this reread "How to want to learn..." and start catching up immediately. 
 - Even though this book is meant to be driven by mindest changes covered in "How to want to learn..." the deadlines will help keep your expectations of learning on track.
 - (Mandatory)? Mandatory. Most of this book isn't, but if you plan to get anything out of the book read the mandatory headers. If a sub-header is (Mandatory), it's a mandatory part of a header, meaning you have to go through it if you want the rest of the chapter to follow as intended.
